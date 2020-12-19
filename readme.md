@@ -1,4 +1,4 @@
-﻿# Sistema Distribuído
+﻿# Sistemas Distribuídos
 
 ## Objetivos
 É um projeto básico utilizado para iniciar o estudo sobre os conceitos relacionados a Sistemas Distribuídos utilizando o Service Bus do Azure.
